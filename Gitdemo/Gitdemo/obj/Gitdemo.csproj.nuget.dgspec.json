@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Krishna\\Desktop\\Larsen & Toubro Infotech\\Training Module\\WebTechnology\\GitDemo\\Gitdemo\\Gitdemo\\Gitdemo.csproj": {}
+    "C:\\Users\\Krishna\\Source\\Repos\\nitinborse19\\GET1000\\Gitdemo\\Gitdemo\\Gitdemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Krishna\\Desktop\\Larsen & Toubro Infotech\\Training Module\\WebTechnology\\GitDemo\\Gitdemo\\Gitdemo\\Gitdemo.csproj": {
+    "C:\\Users\\Krishna\\Source\\Repos\\nitinborse19\\GET1000\\Gitdemo\\Gitdemo\\Gitdemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Krishna\\Desktop\\Larsen & Toubro Infotech\\Training Module\\WebTechnology\\GitDemo\\Gitdemo\\Gitdemo\\Gitdemo.csproj",
+        "projectUniqueName": "C:\\Users\\Krishna\\Source\\Repos\\nitinborse19\\GET1000\\Gitdemo\\Gitdemo\\Gitdemo.csproj",
         "projectName": "Gitdemo",
-        "projectPath": "C:\\Users\\Krishna\\Desktop\\Larsen & Toubro Infotech\\Training Module\\WebTechnology\\GitDemo\\Gitdemo\\Gitdemo\\Gitdemo.csproj",
+        "projectPath": "C:\\Users\\Krishna\\Source\\Repos\\nitinborse19\\GET1000\\Gitdemo\\Gitdemo\\Gitdemo.csproj",
         "packagesPath": "C:\\Users\\Krishna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Krishna\\Desktop\\Larsen & Toubro Infotech\\Training Module\\WebTechnology\\GitDemo\\Gitdemo\\Gitdemo\\obj\\",
+        "outputPath": "C:\\Users\\Krishna\\Source\\Repos\\nitinborse19\\GET1000\\Gitdemo\\Gitdemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Krishna\\AppData\\Roaming\\NuGet\\NuGet.Config",
